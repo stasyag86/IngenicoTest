@@ -1,4 +1,4 @@
-# IngenicoTest
+# Web Service
 web service for Ingenico
 
 
